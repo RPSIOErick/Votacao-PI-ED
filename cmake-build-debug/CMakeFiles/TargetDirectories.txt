@@ -1,0 +1,3 @@
+D:/Fatec/ED/VotacaoPI/cmake-build-debug/CMakeFiles/VotacaoPI.dir
+D:/Fatec/ED/VotacaoPI/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Fatec/ED/VotacaoPI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
